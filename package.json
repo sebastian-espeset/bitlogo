@@ -1,0 +1,20 @@
+{
+  "name": "bitlogo",
+  "version": "1.0.0",
+  "description": "Generate glitchy squares",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "react",
+    "bitmap",
+    "glitch"
+  ],
+  "author": "Sebastian Espeset",
+  "license": "ISC",
+  "dependencies": {
+    "react": "^18.3.1",
+    "react-dom": "^18.3.1"
+  }
+}
