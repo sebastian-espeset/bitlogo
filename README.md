@@ -5,12 +5,12 @@
 
 ```bash
 
-npm install bit-logo
+npm install bitlogo
 ```
 ## Example Usage
 ```
 import React from 'react';
-import { BitLogo } from 'bit-logo';
+import { BitLogo } from 'bitlogo';
 function App() {
   return (
     <div>
