@@ -1,6 +1,6 @@
 {
   "name": "bitlogo",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Generate glitchy squares",
   "main": "index.js",
   "scripts": {
