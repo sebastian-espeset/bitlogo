@@ -1,3 +1,3 @@
-import RandomLogo from "./RandomLogo";
+import BitLogo from "./BitLogo";
 
-export { RandomLogo };
+export { BitLogo };

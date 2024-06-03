@@ -65,7 +65,7 @@ const BitLogo = ({
       fadeIn();
     };
 
-    const drawRandomLogo = () => {
+    const drawBitLogo = () => {
       const fadeDuration = baseFadeDuration;
       ctx.clearRect(0, 0, canvasSize, canvasSize);
       for (let x = 0; x < canvasSize / penSize; x++) {
@@ -76,7 +76,7 @@ const BitLogo = ({
       }
     };
 
-    drawRandomLogo();
+    drawBitLogo();
   }, [penSize, canvasSize, colorList, animationSpeed]);
 
   return (
