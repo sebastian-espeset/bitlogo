@@ -1,3 +1,3 @@
 import BitLogo from "./BitLogo";
 
-export { BitLogo };
+export default { BitLogo };
